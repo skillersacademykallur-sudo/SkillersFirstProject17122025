@@ -1,1 +1,1 @@
-print("my name kittu")
+print("my name is kittu")
