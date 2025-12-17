@@ -1,2 +1,2 @@
 print("my name is kittu")
-print("my name is nithin")
+print("my self nani")
