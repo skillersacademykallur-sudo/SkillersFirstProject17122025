@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
+<<<<<<< HEAD
     <content url="file://$MODULE_DIR$" />
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11,6 +12,12 @@
 =======
     <orderEntry type="jdk" jdkName="Python 3.14 (PythonProject2)" jdkType="Python SDK" />
 >>>>>>> 1f1950c149f029a9dbc4add761ff3d058eb519ed
+=======
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (SkillersFirstProject17122025)" jdkType="Python SDK" />
+>>>>>>> 078c7e30d2667b14d6a19868aaf7f241ac2ddc4d
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
