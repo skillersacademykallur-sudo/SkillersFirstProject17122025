@@ -2,7 +2,7 @@
 
 #Here Age = A
 
-A =0
+A =23
 
 if A < 16:
   print("Don't use mobile phones")
